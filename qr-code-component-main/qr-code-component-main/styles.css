@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(200, 200, 255);
+    font-family: Palanquin Dark;
+
+}
+
+.container {
+    height: 600px;
+    width: 400px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#qrimg {
+    border: 1px transparent solid;
+    border-radius: 10px;
+    width: 360px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.container h2{
+    color: rgb(0, 0, 60);
+    line-height: 30px;
+    padding: 10px 30px;
+}
+
+.container p {
+    color: rgb(155, 155, 155);
+    line-height: 20px;
+    padding: 0px 40px;
+    }
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+    color: rgb(163, 163, 163);
+}
+.attribution a { 
+    color: hsl(228, 33%, 63%); 
+}   
